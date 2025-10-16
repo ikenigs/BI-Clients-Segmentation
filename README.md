@@ -7,14 +7,14 @@
 
 This Power BI dashboard provides a **comprehensive overview of customer demographics and segmentation** for a fintech startup in its early growth stages.  
 
-It was designed to help stakeholders understand who their clients are, how they engage with financial products, and where the most promising opportunities for growth lie.  
+It was designed to help stakeholders understand who their clients are and get an initial idea of where the most promising opportunities for growth lie based on the actual customers.  
 
 ---
 
 ## 🎯 Objectives  
 
 - Segment customers by **demographic characteristics** (age group, gender, education, marital status).  
-- Visualize **client acquisition and engagement trends** over time.  
+- Visualize **client acquisition ** over time.  
 - Identify **top-performing segments** to guide marketing and product strategy.  
 
 ---
