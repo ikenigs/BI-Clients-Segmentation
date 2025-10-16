@@ -18,10 +18,11 @@ It was designed to help stakeholders understand who their clients are and get an
 
 ---
 ## Dataset
-Disclaimer: This dashboard is based on original company data that has been obfuscated and modified to protect data privacy. All sensitive or identifiable information has been altered, anonymized, or replaced with synthetic values while maintaining the structure and analytical integrity of the dataset.
+This dashboard is based on original company data that has been obfuscated and modified to protect data privacy. All sensitive or identifiable information has been altered, anonymized, or replaced with synthetic values while maintaining the structure and analytical integrity of the dataset.
+
 ---
 
-## 📊 Key Features  
+## 📊 Key Features in the Power BI dashboard
 
 | Feature | Description |
 |----------|-------------|
