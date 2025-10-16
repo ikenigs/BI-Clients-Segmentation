@@ -14,9 +14,11 @@ It was designed to help stakeholders understand who their clients are and get an
 ## 🎯 Objectives  
 
 - Segment customers by **demographic characteristics** (age group, gender, education, marital status).  
-- Visualize **client acquisition ** over time.  
-- Identify **top-performing segments** to guide marketing and product strategy.  
+- Visualize **client acquisition** over time.  
 
+---
+## Dataset
+Disclaimer: This dashboard is based on original company data that has been obfuscated and modified to protect data privacy. All sensitive or identifiable information has been altered, anonymized, or replaced with synthetic values while maintaining the structure and analytical integrity of the dataset.
 ---
 
 ## 📊 Key Features  
@@ -34,13 +36,5 @@ It was designed to help stakeholders understand who their clients are and get an
 ## 🧰 Tools Used  
 
 - **Microsoft Power BI** for data modeling, DAX measures, and dashboard design  
-- **Excel / CSV** as data source for client data  
-- **SQL** (optional preprocessing)  
-
----
-
-## 🚀 How to Use  
-
-1. **Clone or download** this repository  
-   ```bash
-   git clone https://github.com/ikenigs/BI-Clients-Segmentation.git
+- **Excel / CSV** as data source for the ofuscated client data  
+- **SQL** for the original dataset
